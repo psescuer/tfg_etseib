@@ -9,11 +9,11 @@ https://www.ev3dev.org/ <br/>
 http://thetechnicgear.com/2014/06/howto-calibrate-differential-drive-robot/ <br/>
 http://thetechnicgear.com/2014/04/howto-build-3-wheels-holonomic-robot-using-lego/#comment-18901 <br/>
  
-   # Matlab
+    Matlab
 https://es.mathworks.com/examples/symbolic/mw/symbolic-ex98670374-improving-accuracy-and-performance-in-optimization <br/>
 https://es.mathworks.com/examples/simulink/mw/simulink_general-ex54579691-exploring-the-solver-jacobian-structure-of-a-model <br/>
 
 
-   # Altres
+    Altres
 https://studywolf.wordpress.com/category/robotics/
 http://thetechnicgear.com/2014/04/howto-build-3-wheels-holonomic-robot-using-lego/
